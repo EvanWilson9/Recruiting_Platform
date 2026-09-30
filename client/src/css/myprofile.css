@@ -1,0 +1,15 @@
+.myprofile-content {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  background-color: #f7f7f7;
+}
+
+.myprofile-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 1200px;
+  width: 100%;
+  padding: 2rem 0rem;
+}
